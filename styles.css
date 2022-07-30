@@ -52,7 +52,6 @@ nav a:hover{
 @media screen and (max-width: 700px){
 	nav{
 		flex-direction: column;
-		padding: 5px;
 	}
 	nav img{
 		height: 86px;
